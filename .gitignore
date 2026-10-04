@@ -1,0 +1,6 @@
+# PHP
+/vendor/
+.env
+*.log
+.DS_Store
+Thumbs.db
